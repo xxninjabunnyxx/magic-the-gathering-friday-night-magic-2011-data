@@ -1,0 +1,17 @@
+---
+object: set
+id: 757ed42f-384b-450d-ab70-217cadca2847
+code: f11
+name: Friday Night Magic 2011
+uri: https://api.scryfall.com/sets/757ed42f-384b-450d-ab70-217cadca2847
+scryfall_uri: https://scryfall.com/sets/f11
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Af11&unique=prints
+released_at: '2011-01-01'
+set_type: promo
+card_count: 12
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: fnm
+block: Friday Night Magic
+icon_svg_uri: https://svgs.scryfall.io/sets/star.svg?1694404800

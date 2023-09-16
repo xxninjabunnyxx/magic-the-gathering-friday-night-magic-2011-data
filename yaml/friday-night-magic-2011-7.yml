@@ -1,0 +1,110 @@
+---
+object: card
+id: 0b2c652a-f82f-4ad1-96ff-5788d6b4aebf
+oracle_id: ce588fd3-642e-4df9-8061-6fcfc6e81270
+multiverse_ids: []
+tcgplayer_id: 48125
+cardmarket_id: 248004
+name: Jace's Ingenuity
+lang: en
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/0b2c652a-f82f-4ad1-96ff-5788d6b4aebf
+scryfall_uri: https://scryfall.com/card/f11/7/jaces-ingenuity?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/b/0b2c652a-f82f-4ad1-96ff-5788d6b4aebf.jpg?1562636731
+  normal: https://cards.scryfall.io/normal/front/0/b/0b2c652a-f82f-4ad1-96ff-5788d6b4aebf.jpg?1562636731
+  large: https://cards.scryfall.io/large/front/0/b/0b2c652a-f82f-4ad1-96ff-5788d6b4aebf.jpg?1562636731
+  png: https://cards.scryfall.io/png/front/0/b/0b2c652a-f82f-4ad1-96ff-5788d6b4aebf.png?1562636731
+  art_crop: https://cards.scryfall.io/art_crop/front/0/b/0b2c652a-f82f-4ad1-96ff-5788d6b4aebf.jpg?1562636731
+  border_crop: https://cards.scryfall.io/border_crop/front/0/b/0b2c652a-f82f-4ad1-96ff-5788d6b4aebf.jpg?1562636731
+mana_cost: "{3}{U}{U}"
+cmc: 5.0
+type_line: Instant
+oracle_text: Draw three cards.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 757ed42f-384b-450d-ab70-217cadca2847
+set: f11
+set_name: Friday Night Magic 2011
+set_type: promo
+set_uri: https://api.scryfall.com/sets/757ed42f-384b-450d-ab70-217cadca2847
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Af11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/f11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0b2c652a-f82f-4ad1-96ff-5788d6b4aebf/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ace588fd3-642e-4df9-8061-6fcfc6e81270&unique=prints
+collector_number: '7'
+digital: false
+rarity: rare
+watermark: wotc
+flavor_text: '"Brute force can sometimes kick down a locked door, but knowledge is
+  a skeleton key."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Argyle
+artist_ids:
+- a44ddda4-5331-4f83-aac9-3e00ed36bd7b
+illustration_id: c4497725-44ba-4f44-9e81-10183f5c6cc7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+- fnm
+edhrec_rank: 10954
+penny_rank: 1019
+prices:
+  usd: 
+  usd_foil: '0.55'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.74'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Jace%27s+Ingenuity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Jace%27s+Ingenuity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Jace%27s+Ingenuity
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/48125?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jace%27s+Ingenuity&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jace%27s+Ingenuity&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

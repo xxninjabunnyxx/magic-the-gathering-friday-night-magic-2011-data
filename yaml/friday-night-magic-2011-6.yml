@@ -1,0 +1,118 @@
+---
+object: card
+id: bbbacad9-8ac0-4cd9-97f5-77940d8fd1e7
+oracle_id: 5c05c350-1b11-4dda-9de6-01c7e0f07ffc
+multiverse_ids: []
+tcgplayer_id: 48124
+cardmarket_id: 246713
+name: Rhox War Monk
+lang: en
+released_at: '2011-01-01'
+uri: https://api.scryfall.com/cards/bbbacad9-8ac0-4cd9-97f5-77940d8fd1e7
+scryfall_uri: https://scryfall.com/card/f11/6/rhox-war-monk?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/b/bbbacad9-8ac0-4cd9-97f5-77940d8fd1e7.jpg?1562636881
+  normal: https://cards.scryfall.io/normal/front/b/b/bbbacad9-8ac0-4cd9-97f5-77940d8fd1e7.jpg?1562636881
+  large: https://cards.scryfall.io/large/front/b/b/bbbacad9-8ac0-4cd9-97f5-77940d8fd1e7.jpg?1562636881
+  png: https://cards.scryfall.io/png/front/b/b/bbbacad9-8ac0-4cd9-97f5-77940d8fd1e7.png?1562636881
+  art_crop: https://cards.scryfall.io/art_crop/front/b/b/bbbacad9-8ac0-4cd9-97f5-77940d8fd1e7.jpg?1562636881
+  border_crop: https://cards.scryfall.io/border_crop/front/b/b/bbbacad9-8ac0-4cd9-97f5-77940d8fd1e7.jpg?1562636881
+mana_cost: "{G}{W}{U}"
+cmc: 3.0
+type_line: Creature — Rhino Monk
+oracle_text: Lifelink
+power: '3'
+toughness: '4'
+colors:
+- G
+- U
+- W
+color_identity:
+- G
+- U
+- W
+keywords:
+- Lifelink
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 757ed42f-384b-450d-ab70-217cadca2847
+set: f11
+set_name: Friday Night Magic 2011
+set_type: promo
+set_uri: https://api.scryfall.com/sets/757ed42f-384b-450d-ab70-217cadca2847
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Af11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/f11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bbbacad9-8ac0-4cd9-97f5-77940d8fd1e7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5c05c350-1b11-4dda-9de6-01c7e0f07ffc&unique=prints
+collector_number: '6'
+digital: false
+rarity: rare
+watermark: wotc
+flavor_text: Rhox monks are dedicated to spiritual growth and learning, and most bear
+  the sigils of many students. However, they do not gladly suffer fools or those who
+  disagree with their carefully wrought dogma.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Allen Williams
+artist_ids:
+- 8a56d854-b424-45ec-9262-e993a382a961
+illustration_id: 3d0b556d-4792-44f5-b79c-7489abcafd6a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+- fnm
+edhrec_rank: 19726
+penny_rank: 3187
+prices:
+  usd: 
+  usd_foil: '0.32'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.25'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rhox+War+Monk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rhox+War+Monk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rhox+War+Monk
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/48124?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rhox+War+Monk&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rhox+War+Monk&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
